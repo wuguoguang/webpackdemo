@@ -1,0 +1,1 @@
+document.write('我是文件b水水水水水')
